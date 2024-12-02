@@ -1,0 +1,16 @@
+{
+  "csv_output_data_directory_path" : "../../Data/Test",
+  "json_output_data_directory_path" : "../../Data/Test",
+  "vcds_input_data_directory_path" : "../../Data/VCDS",
+  "vcds_input_data_file_name": "Test-Subject-18 2024-06-02 21-12.CSV",
+  "gps_input_data_directory_path" : "../../Data/GPX",
+  "gps_input_data_file_name": "Test-Subject-18 2024-06-02 21-12.gpx",
+  "sensor_labels_directory_path" : "../../Data/Test",
+  "sensor_labels_file_name": "same",
+  "labels_directory_path": "../../Data/ComfortabilityLabels",
+  "labels_file_name": "Test-Subject-18 2024-06-02 21-12.csv",
+  "vcds_months_list": [
+    "January", "February", "March", "April", "May", "June", "July",
+    "August", "September", "October", "November", "December"
+  ]
+}
